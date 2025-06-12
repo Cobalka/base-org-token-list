@@ -1,0 +1,26 @@
+{
+  "name": "SojaCoin Token List",
+  "timestamp": "2025-06-12T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "name": "SojaCoin",
+      "symbol": "SOJA",
+      "address": "0xc7B2523EB1b67eC4322a887f53570cdcC12E327b",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Cobalka/base-org-token-list/main/tokens/SojaCoin/logo.png"
+    }
+  ],
+  "keywords": [
+    "soja",
+    "agro",
+    "meme",
+    "token",
+    "base"
+  ]
+}
